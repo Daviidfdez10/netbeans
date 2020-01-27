@@ -1,7 +1,0 @@
-linea 1 prueba con git
-
-
-
-
-
-git add archivonuevo.txt
